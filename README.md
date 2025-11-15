@@ -22,7 +22,7 @@ Git: Version control
 
 ## Workflow
 
- <img src="DashBoard.png" alt="Dashboard" width="300">
+ <img src="./dashboard.png" alt="Dashboard" width="300">
 
 ## Data Cleaning & Transformation Details
 
